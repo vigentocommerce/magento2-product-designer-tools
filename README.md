@@ -8,7 +8,6 @@ Helpful links:
 - Pricing https://goo.gl/vq7LIr
 - Help Center https://goo.gl/fWjkKz
 
-
 # Free download The Magento2 Connector plugin for Online Product Designer Tools 
 - The Magento2 Connector plugin will connect Magento with Product Designer Pro system https://goo.gl/AFlnBQ
 - Manage order and export all customized designs from Magento Backend (Export and Edit customized design from customer's order details)
